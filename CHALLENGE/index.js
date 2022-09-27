@@ -10,7 +10,8 @@ function displayPlayers () {
     document.getElementById("player2").innerHTML = player2_Name;
 }
 
-displayPlayers();             // triggers the function
+displayPlayers();            
+
 
 
 // onclick first button
@@ -24,6 +25,10 @@ function buttonOne () {
 };
 
 buttonOne();
+
+
+
+// onclick second button
 
 function buttonTwo () {
 
